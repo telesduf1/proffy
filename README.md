@@ -82,7 +82,7 @@ $ yarn install
 # Execução de migrations para criação do banco
 yarn knex:migrate
 
-# Executando a aplicação a aplicação
+# Executando a aplicação
 $ yarn start
 
 # Servidor será iniciado em http://localhost:3333 
@@ -94,7 +94,7 @@ $ yarn start
 # Instalação de dependências
 $ yarn install
 
-# Executando a aplicação a aplicação
+# Executando a aplicação
 $ yarn start
 
 # Aplicação ficará acessível em http://localhost:3000
@@ -106,7 +106,7 @@ $ yarn start
 # Instalação de dependências
 $ yarn install
 
-# Executando a aplicação a aplicação
+# Executando a aplicação
 $ yarn start
 
 # Navegador será aberto no Expo Developer Tools com as instruções de acesso
