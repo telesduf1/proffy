@@ -64,7 +64,7 @@ O projeto está dividido em 3 (três) diretórios:
 
 - Back End (./api)
 - Front End (./web)
-- Mobile (.mobile)
+- Mobile (./mobile)
 
 ### Ambiente
 
