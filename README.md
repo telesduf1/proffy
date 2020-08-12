@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="./misc/banner_proffy.png" />
+    <img alt="Proffy" title="Proffy" src="./misc/banner_proffy.JPG" />
 </h1>
 
 ## Descrição
@@ -37,7 +37,7 @@ Layout criado por Tiago Luchtenberg (@tiagoluchtenberg) e disponibilizado via Fi
 </a>
 
 <p align="center">
-  <img alt="Layout Web" title="Layout Web" src="./misc/layout-web.png">
+  <img alt="Layout Web" title="Layout Web" src="./misc/layout-web.JPG">
 </p>
 
 ### Mobile
@@ -47,7 +47,7 @@ Layout criado por Tiago Luchtenberg (@tiagoluchtenberg) e disponibilizado via Fi
 </a>
 
 <p align="center">
-  <img alt="Layout Mobile" title="Layout Mobile" src="./misc/layout-mobile.png">
+  <img alt="Layout Mobile" title="Layout Mobile" src="./misc/layout-mobile.JPG">
 </p>
 
 ## Stack
